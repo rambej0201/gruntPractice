@@ -1,0 +1,28 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "grunt practice 23March2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "rambej",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambej0201/gruntPractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rambej0201/gruntPractice/issues"
+  },
+  "homepage": "https://github.com/rambej0201/gruntPractice#readme"
+}
